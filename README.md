@@ -2,7 +2,7 @@
 
 **1. Team Information**
 
-- Name: viz2906
+- Name: Vishnu Anand,Vishal Prasath
 - GitHub: https://github.com/viz2906
 
 **2. Build, Load, and Run Instructions**
